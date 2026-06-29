@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Sayan Das 👋
 
-<!--
-**sayan7585das-cmyk/sayan7585das-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year BS-MS Student at IISER Kolkata
 
-Here are some ideas to get you started:
+I'm interested in using computation to solve problems in chemistry, biology, and pharmaceutical research. Currently, I'm building projects in Python and data science while learning computational drug discovery.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Interests
+
+- Computational Drug Discovery
+- Data Science
+- Python Programming
+- AI & Machine Learning
+- Chemoinformatics
+- Bioinformatics
+
+## 🛠️ Technologies
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Jupyter Notebook
+- Git & GitHub
+- Linux
+
+## 🚀 Current Projects
+
+- 📊 GroupDNA – WhatsApp Chat Analysis
+- 🔬 Computational Drug Discovery (Learning)
+
+## 🌱 Currently Learning
+
+- Machine Learning
+- Molecular Docking
+- Scientific Computing
+- Data Visualization
+
+## 🏆 Achievements
+
+- 🥇 District Gold Medalist in Athletics
+- 🏃 State-Level Athlete
+
+## 📫 Connect with Me
+
+- LinkedIn: www.linkedin.com/in/sayan-das-19660340a
+- Email: sayan7585das@gmail.com
+
+---
+*"Learning by building real-world projects."*
