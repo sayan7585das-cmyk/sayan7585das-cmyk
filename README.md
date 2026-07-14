@@ -26,7 +26,8 @@ I'm interested in using computation to solve problems in chemistry, biology, and
 ## 🚀 Current Projects
 
 - 📊 GroupDNA – WhatsApp Chat Analysis
-- 🔬 Computational Drug Discovery (Learning)
+- 📊SpendDNA Expence-Analysis
+- Computational-drug-discovery
 
 ## 🌱 Currently Learning
 
